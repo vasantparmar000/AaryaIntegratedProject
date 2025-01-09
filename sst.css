@@ -1,0 +1,28 @@
+css
+body {
+background: orange;
+font-family: sans-serif;
+text-align: center;
+}
+.container {
+background-color: orange
+
+
+}
+
+h1 {
+margin-bottom: 20px;
+}
+
+p {
+margin-bottom: 10px;
+}
+
+.image container {
+margin-bottom: 20px;
+}
+
+img {
+max-width: 500px;
+height: auto;
+}
